@@ -89,10 +89,6 @@ $ jupyter nbconvert --to notebook --execute "Game Controller.ipynb"
 
 ```
 
-## :memo: Made By ##
-
-Made with :heart: by <a href="https://github.com/UtkarshPrajapati" target="_blank">Utkarsh Prajapati</a>
-
 &#xa0;
 
 <a href="#top">Back to top</a>
