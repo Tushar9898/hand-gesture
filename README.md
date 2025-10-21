@@ -74,20 +74,8 @@ You should also install Hill Climb Racing by going to <a href="https://www.micro
 
 ## :checkered_flag: Starting ##
 
-```bash
-# Clone this project
-$ git clone https://github.com/UtkarshPrajapati/Game-Controller-Using-Hand-Gestures.git
 
-# Access
-$ cd Game-Controller-Using-Hand-Gestures
 
-# Install dependencies
-$ pip install -r requirements.txt
-
-# Run the project
-$ jupyter nbconvert --to notebook --execute "Game Controller.ipynb"
-
-```
 
 &#xa0;
 
